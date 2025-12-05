@@ -1,0 +1,7 @@
+{
+  "name": "SafetyLens AI - 实景安全题库生成",
+  "description": "基于AI识别实景图片或视频中的安全隐患，自动生成多类型安全试题并导出Word文档。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
